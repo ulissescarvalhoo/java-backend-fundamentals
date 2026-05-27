@@ -1,0 +1,45 @@
+### Java & Maven ###
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+gen/
+
+### Maven Wrapper ###
+.mvn/
+mvnw
+mvnw.cmd
+
+### VS Code ###
+.vscode/
+*.code-workspace
+.history/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+*.launch
+*.tmp
+
+### Sistemas Operacionais (Arquivos de sistema) ###
+.DS_Store
+Thumbs.db
+desktop.ini
+bin/
+
+### WSL / Linux ###
+*.swp
+*~
+.nfs*
