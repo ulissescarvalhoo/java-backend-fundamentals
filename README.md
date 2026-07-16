@@ -6,7 +6,7 @@ O objetivo deste projeto é consolidar conhecimentos de forma progressiva, organ
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Este repositório foi criado para:
 
@@ -17,7 +17,7 @@ Este repositório foi criado para:
 
 ---
 
-## 🚀 Tecnologias e Ambiente
+##  Tecnologias e Ambiente
 
 * **Linguagem:** Java 17 (LTS)
 * **Build & Dependências:** Maven
@@ -27,7 +27,7 @@ Este repositório foi criado para:
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## 🏗️Estrutura do Projeto
 
 O projeto segue o padrão do Maven e está organizado em módulos separados por tipo de conteúdo estudado:
 
@@ -51,7 +51,7 @@ A separação em módulos facilita a organização dos estudos e o isolamento de
 
 ---
 
-## 📈 Progresso de Estudos
+##  Progresso de Estudos
 
 * [x] Estruturas sequenciais
 * [x] Estruturas condicionais
@@ -91,9 +91,9 @@ mvn exec:java -Dexec.mainClass="com.ulisses.bank.Main"
 
 ---
 
-## 💡 Exemplos de Exercícios
+##  Exemplos de Exercícios
 
-### 🏦 Sistema de Conta Bancária
+###  Sistema de Conta Bancária
 
 Simulação simples de criação de conta, depósito e saque.
 
@@ -114,7 +114,7 @@ Novo saldo após saque: 130.00
 
 ---
 
-### 📐 Cálculo de Área (Geometria)
+###  Cálculo de Área (Geometria)
 
 Exercícios utilizando classes, atributos e métodos para cálculo de áreas geométricas.
 
@@ -126,7 +126,7 @@ Exemplo de aplicação:
 
 ---
 
-## 🧠 Abordagem de Estudo
+##  Abordagem de Estudo
 
 * Organização por módulos para separar conceitos
 * Código simples, porém bem estruturado
@@ -136,7 +136,7 @@ Exemplo de aplicação:
 
 ---
 
-## 🔧 Próximos Passos
+##  Próximos Passos
 
 * Implementar conceitos avançados de POO
 * Adicionar tratamento de exceções
@@ -147,7 +147,7 @@ Exemplo de aplicação:
 
 ---
 
-## 📌 Observações
+##  Observações
 
 Este projeto faz parte de um processo contínuo de aprendizado.
 
@@ -155,6 +155,6 @@ A estrutura, organização e complexidade dos exercícios serão evoluídas prog
 
 ---
 
-## 📎 Autor
+##  Autor
 
 Desenvolvido como parte de um plano estruturado de evolução em Java, Git e Linux, com foco em preparação para oportunidades profissionais na área de desenvolvimento backend.
